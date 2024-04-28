@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+ 
+
+.head{
+    font-weight: bolder;
+    color: #6F42C1;
+}
+.head-2{
+  color: #6F42C1;
+  font-size: 20px;
+
+}
+.head-1{
+    font-size: 30px;
+    color: #6F42C1;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+p{
+    margin: 0;
+    font-weight: 400;
+    font-size: 1rem;
+    
+
+}
+.white{
+  background-color: antiquewhite;
+}
+.images{
+    height: auto;
+    
+}
+.mt-0 {
+    margin-top: 0 !important;
+  }
+  .p-3 {
+    padding: $spacer !important;
+  }
+  .hereo-section .container{
+    display: grid;
+    place-content: center;
+    height: inherit;
+  }
+  .bg-main{
+    height: 80vh;
+    position: relative;
+  }
+  .btn{
+    background-color:  #6f42c1;
+    color: aliceblue;
+  }
+  .bg-colour{
+
+
+  }
+  p{
+    color:rgb(83, 82, 82);
+  }
+  .card-colour{
+    background-color: #8f77bbb9;
+  }
+  /* .bg-light{
+    background-color:white ;
+  } */
